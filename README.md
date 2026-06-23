@@ -1,5 +1,5 @@
 # JOBTAG
-Job Tracking & Reporting System
+# Job Tracking & Reporting System
 
 <p align="center">
   <img src="https://img.shields.io/badge/React__Native-Expo__52.0.0-4630EB?style=for-the-badge&logo=react" alt="React Native Expo">
