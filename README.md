@@ -1,5 +1,5 @@
 # JOBTAG
-# JOBTAG — Job Tracking & Reporting System
+Job Tracking & Reporting System
 
 <p align="center">
   <img src="https://img.shields.io/badge/React__Native-Expo__52.0.0-4630EB?style=for-the-badge&logo=react" alt="React Native Expo">
@@ -11,7 +11,7 @@
 
 ---
 
-## 👥 1. Identitas Tim & Pembagian Tugas (Skenario B)
+## 1. Identitas Tim & Pembagian Tugas (Skenario B)
 
 Dokumentasi ini disusun oleh Kelompok Tim Skenario B (2 Orang) dengan rincian peran, tanggung jawab, dan pembagian tugas riil sebagai berikut:
 
@@ -26,7 +26,7 @@ Dokumentasi ini disusun oleh Kelompok Tim Skenario B (2 Orang) dengan rincian pe
 
 ---
 
-## 📱 2. Deskripsi Aplikasi
+## 2. Deskripsi Aplikasi
 
 **JOBTAG** adalah sistem pelacakan dan pelaporan kerja digital yang dirancang khusus untuk pekerja lapangan. Aplikasi ini mengintegrasikan fungsi utilitas internal perangkat dengan arsitektur jaringan cloud untuk memudahkan manajemen data performa kerja secara transparan dan efisien. 
 
@@ -41,7 +41,7 @@ Melalui aplikasi mobile ini, pekerja dapat melakukan absensi tervalidasi berbasi
 
 ---
 
-## 🔌 3. Daftar API yang Digunakan
+## 3. Daftar API yang Digunakan
 
 Aplikasi JOBTAG menggunakan dua jenis integrasi layanan jaringan eksternal:
 
@@ -53,7 +53,7 @@ Aplikasi JOBTAG menggunakan dua jenis integrasi layanan jaringan eksternal:
 
 ---
 
-## ✅ 4. Daftar 3 Fitur Utama (Alur Demo Penilaian)
+## 4. Daftar 3 Fitur Utama (Alur Demo Penilaian)
 
 Sesuai kriteria penilaian praktikum, berikut adalah 3 fitur utama yang diimplementasikan dan siap didemokan alur kodenya:
 
@@ -74,7 +74,7 @@ Sesuai kriteria penilaian praktikum, berikut adalah 3 fitur utama yang diimpleme
 
 ---
 
-## 🏗️ 5. Struktur Arsitektur Kode Proyek
+## 5. Struktur Arsitektur Kode Proyek
 
 ```text
 jobtag-app/
