@@ -11,9 +11,9 @@
 
 ---
 
-## 1. Identitas Tim & Pembagian Tugas (Skenario B)
+## 1. Identitas Tim & Pembagian Tugas 
 
-Dokumentasi ini disusun oleh Kelompok Tim Skenario B (2 Orang) dengan rincian peran, tanggung jawab, dan pembagian tugas riil sebagai berikut:
+Dokumentasi ini disusun oleh Kelompok 5 dengan rincian peran, tanggung jawab, dan pembagian tugas riil sebagai berikut:
 
 | No | Nama Anggota | NRP | Peran | Tanggung Jawab & Detail Tugas |
 |----|--------------|-----|-------|-------------------------------|
